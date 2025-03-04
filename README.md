@@ -1,1 +1,4 @@
 # Reinforcement-Learning-Based-2D-Quadrotor-Navigation-with-Obstacle-Avoidance
+ROB 6323 Reinforcement Learning and Optimal Control for Robotics || Project - PPO || Fall 2024
+## Abstract
+This project focuses on 2D quadrotor control using Reinforcement Learning(RL) to navigate towards a target while avoiding obstacles. The implemetation involves creating a custom simulation environment using the Stable-Baselines3 library and training RL agent with the Proximal Policy Optimization (PPO) algorithm. The quadrotor's dynamics are modeled using a nonlinear system of equations, where control inputs are optimized for stable flight and obstacle avoidance, Through extensive training, the RL-based controller learns efficient navigation policies, making real-time decisions to maneuver the quadrotor safely. The results demonstrate the feasibility of RL-basef control in complex aerial navigation tasks.
